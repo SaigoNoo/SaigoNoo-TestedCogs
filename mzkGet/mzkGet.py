@@ -5,5 +5,5 @@ class MusicBrainz(commands.Cog):
         self.bot = bot
 
     @commands.command()
-    async def ping(self, ctx):
+    async def piping(self, ctx):
         await ctx.send("Pong !")
