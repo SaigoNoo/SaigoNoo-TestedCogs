@@ -1,0 +1,9 @@
+{
+    "author": ["SaigoNoo#3044", "SaigoNoo"],
+    "description": "Allow user to download a album in the host who execute RedBot",
+    "install_msg": "Thanks for installing. Use `[p]mzkgetset` to do setting once the cog is loaded.",
+    "short": "Music Album Downloader",
+    "tags": ["audio"],
+    "type": "COG",
+    "end_user_data_statement": "This cog stores discord IDs as needed for operation. It need to access in the system (hard drive) selected by admin for save mp3 files."
+}
