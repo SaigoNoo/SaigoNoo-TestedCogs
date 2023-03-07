@@ -1,6 +1,6 @@
 # RedBot Cogs Repository of SaigoNoo
 Hi! My identity is SaigoNoo. I'm student in IT in Belgium and learn about basic programation (Python, C, ...)
-I learn about Database Management, Network Security and Administration, Electricity, eletroni and telecomunication. I love video-games too, but that's not the main subject.
+I learn about Database Management, Network Security and Administration, Electricity, eletronics and telecomunication. I love video-games too, but that's not the main subject.
 
 
 ## What kind of cogs you do 
