@@ -16,4 +16,4 @@ For the moment, I havn't create a repository for stable cogs, because I'm starti
 | Cogs Name | Description |
 |--|--|
 | MzkGet | It's a small cog with which you will be available to download music album from MusicBrainz. |
-| PlexTheme | It's a small cog connected with Plex by plexapi. You will be able to specify a theme to use for a gived item.|
+| plex | It's a small cog connected with Plex by plexapi. You will be able to do specific actions for your Plex Server as libs management, user management, etc...|
