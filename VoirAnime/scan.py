@@ -8,4 +8,4 @@ class VoirAnime(commands.Cog):
     @commands.command()
     async def voiranimeset(self, ctx):
         """This will do stuff"""
-        await ctx.send("Yoooo man")
+        await ctx.send(f"{type(self.bot)}")
