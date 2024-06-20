@@ -12,7 +12,7 @@ class VoirAnime(commands.Cog):
 
     @commands.command()
     async def voiranimelist(self, ctx):
-        await ctx.send(self.scan())
+        await ctx.send(f"{self.scan()}")
 
     @staticmethod
     def get_datas(data: object) -> dict:
